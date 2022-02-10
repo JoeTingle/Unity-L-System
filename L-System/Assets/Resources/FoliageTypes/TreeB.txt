@@ -1,0 +1,7 @@
+// tree B
+axiom=F
+angle=25.7
+itterations=5
+zaxis=8
+size=5
+rules=F[+F]F[-F]F
